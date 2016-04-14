@@ -12,4 +12,5 @@ and how to save and quit??
        step4. press enter
 a little bit complicate -.-
 
-Creating a new branch is quick & simple
+Creating a new branch is quick and simple
+
