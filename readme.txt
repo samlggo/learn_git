@@ -11,3 +11,5 @@ and how to save and quit??
        step3. press w+q
        step4. press enter
 a little bit complicate -.-
+
+Creating a new branch is quick AND simple
