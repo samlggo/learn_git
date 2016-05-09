@@ -17,6 +17,6 @@ Creating a new branch is quick and simple
 add merge by 2016-04-14 17:03
 
 
-fix bug 101 by 2016-04-14 17:31
+fix bug 101 by 2016-04-14 17:31  ----new fixed by 2016-05-09
 
 aaaaaa
